@@ -1,0 +1,1 @@
+curl -X POST http://localhost:8983/solr/connectedCarData/config -d '{"set-property":{"updateHandler.autoSoftCommit.maxTime":"2000"}}'

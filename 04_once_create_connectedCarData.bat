@@ -1,0 +1,1 @@
+solr-5.5.1\bin\solr.cmd create -c connectedCarData
